@@ -1,0 +1,1 @@
+A Clan leader manages a Clan, maintaining discipline, order, and protection. They are granted nine lives and a new name (ending in -star) in a ceremony at the Clan's sacred place. If the previous leader is alive, a life is taken off the original total.

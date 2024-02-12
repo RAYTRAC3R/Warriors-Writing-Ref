@@ -1,2 +1,2 @@
 # Obsidian Warriors Writing Ref
- A dictionary of terms and info for writing Warrior Cats fanfiction.
+ A dictionary of terms and info for writing Warrior Cats fanfiction. Can be downloaded and viewed in the app Obsidian or can be read on Github. Most sources are a combination of Wikipedia and the Warriors Wiki, copied and heavily edited down into short descriptions.
