@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Clan Life MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Clan Life MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Clan Life MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Clan Life MOC.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   "lastOpenFiles": [
     "Herbs MOC.md",
     "Prey MOC.md",
+    "README.md",
     "Clan Life/Clan Leader.md",
     "Clan Life MOC.md",
-    "README.md",
     "Welcome.md",
     "Obsidian-Warriors-Writing-Ref/README.md",
     "Obsidian-Warriors-Writing-Ref",
